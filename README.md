@@ -1,6 +1,16 @@
 # flutter_keep
 
 Flutter Keep Just like Gooole Keep
+Made With SQlite and flutter
+
+#Splash Screen
+![](splash.png)
+
+#Home Screen
+![](home.png)
+
+#Edit Screen
+![](edit.png)
 
 ## Getting Started
 
